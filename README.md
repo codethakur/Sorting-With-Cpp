@@ -2,21 +2,15 @@
 
 🚀 Sorting Algorithms Implemented
 
-🔹 Comparison-Based Sorting Algorithms
+###🔹 Comparison-Based Sorting Algorithms
 
-Bubble Sort (bubbleSort.cpp)
-
-Selection Sort (selectionSort.cpp)
-
-Insertion Sort (insertionSort.cpp)
-
-Merge Sort (mergeSort.cpp)
-
-Quick Sort (quickSort.cpp)
-
-Heap Sort (heapSort.cpp)
-
-Shell Sort (shellSort.cpp)
+-- **Bubble Sort (bubbleSort.cpp)**
+-- **Selection Sort (selectionSort.cpp)**
+-- **Insertion Sort (insertionSort.cpp)**
+-- **Merge Sort (mergeSort.cpp)**
+-- **Quick Sort (quickSort.cpp)**
+-- **Heap Sort (heapSort.cpp)**
+-- **Shell Sort (shellSort.cpp)**
 
 🔹 Non-Comparison-Based Sorting Algorithms
 
